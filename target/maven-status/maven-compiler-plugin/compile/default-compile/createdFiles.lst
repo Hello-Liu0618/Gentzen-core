@@ -1,0 +1,8 @@
+com\gentzen\Main.class
+com\gentzen\core\Prop.class
+com\gentzen\core\Prop$Var.class
+com\gentzen\core\Prop$And.class
+com\gentzen\core\Prop$Not.class
+com\gentzen\core\Prop$Impl.class
+com\gentzen\core\Sequent.class
+com\gentzen\core\Prop$Or.class
